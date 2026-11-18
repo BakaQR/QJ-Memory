@@ -1,25 +1,9 @@
-# 咖啡列表
+# QJ-Memory
 
-一款基于 Tauri + Vue + TypeScript 的记事本工具。
+一款基于 [Tauri](https://github.com/tauri-apps/tauri) 的windows优化工具。
 
-目前已完成功能：
+使用 [Mole](https://github.com/tw93/Mole) 进行文件清理/分析。
 
-✅️便签创建修改删除
+使用 [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) 进行内存释放
 
-✅️定时发送系统通知
-
-待办：
-
-🟨待办事项列表
-
-🟨秒表
-
-🟨倒计时
-
-## Build 
-
-`pnpm tauri build`
-
-输出目录：
-
-`H:\Vue\coffee-list\src-tauri\target\release\bundle\nsis`
+正在龟速开发中...
